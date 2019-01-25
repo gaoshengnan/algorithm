@@ -1,6 +1,8 @@
 
 ### 算法每日一练
 
+test
+
 * 这个专栏是Hollis知识星球的朋友们练习算法的地方  
 * 所有题目来源是[leetCode](https://leetcode-cn.com/problemset/all/)官方公开题库  
 
